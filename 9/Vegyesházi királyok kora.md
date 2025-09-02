@@ -18,8 +18,8 @@
     - előkelők
   - különállóan tekintenek magukra
 - Trónviszályok kora
-  - Árpád-ház kihal 1301-be
-  - interregnum kora
+  - Árpád-ház kihal 1301-be (utolsó király III. András)
+  - interregnum (uralkodás közötti) kora
   - 3 király jelölt
     - Anjou Károly, 4. Béla ükunokája
     - Přemysl Vencel
@@ -31,7 +31,7 @@
   - Menete
     - Vencel 1301-1305
       - apja halála után visszatér
-    - Ottó
+    - Wittelsbach Ottó
       - 1305-1308
       - kezébe kerül a szentkorona
       - Úgy nézz ki, hogy Ö lesz a győztes
@@ -49,25 +49,26 @@
         - Hogyan?
           - széthúznak
           - külön-külön
-          - Csák Máté -- nem harcol ellene
-            - 1321 meghal
           - polgárok érdeke
+        - Csák Máté -- nem harcol ellene
+          - 1321 meghal
         - 1312 Rozgonyi csata
           - Aba család
         - 1317 Debreceni csata
           - Borsa Kopasz
-        - 1322 szilárd hatalom
+        - **1322 szilárd hataloma lesz**
       - Gazdaságpolitika
-        - regálé jövedelemre támaszkodik
+        - regálé jövedelemre (királyi fellségjogon (adó, vám, ajándék)) támaszkodik
         - bányászat fellendítése
           - ösztönözni kell
           - mesterek: cseh, német, morva
         - urbura reform 1325-1327
           - földesúr telkén is lehet bánya
           - bányabér/bányapénz
-          - kitermelt nemesfém
-            - 10%-kel beszolgáltatni
-              - 1/3-ot a földesúr
+          - kitermelt nemesfémnek,
+            - a 10%-kát beszolgáltatni,
+            - a 10% pénzveröbe, nem kapta meg az egészt pénzt,
+            - a 80%-ot nyersanyagot (1/3) meg tarthatott a földesúr
           - éves szinten 1500-2000 kg aranyat tudnak
           - Körmöcbánya, Selmecbánya, Besztercebánya
           - pénzt a király verhet
@@ -79,7 +80,7 @@
           - aranyforint -- firenzei mintára készült
           - értékálló -- nincs pénzrontás
           - 16-17 században is elfogadják
-          - bevétel kiesés
+          - bevétel kiesés történik ezért
         - Kapuadó 1342
           - első állami adó
           - jobbágy portánként
@@ -87,11 +88,11 @@
           - mentes: királyi hatalom alatt, egyház
         - Kereskedelem
           - vámokat vezet be -- nyugaton harmincad, keleten huszad
-        - péterfillérek egyrésze országban tartja
+        - péterfillérek egyrésze országban tartja, Vatikánnak (egyház) járó pénzböl lop
         - püspöki kinevezés késleltetése
         - Eredmény
           - gazdaság fejlődik
-          - városokfejlődnek -- bevétel
+          - városokfejlődnek -> bevétel
       - Királyi hatalom politikai alapja
         - 1/3-át tartja meg a földeknek
         - új bárói réteg
@@ -101,7 +102,7 @@
           - méltóság után
         - haderő
           - banderiális hadsereg
-            - egy nemes ha tud 50 páncélóst... összeszedni, akkor saját zászlója alatt menetelhetett
+            - egy nemes/földesúr összeszed 50 páncélóst, akkor saját zászlója alatt menetelhetett
           - kunok, iászok
           - királyi várkatonaság
       - Külpolitika
@@ -110,8 +111,8 @@
           - Bessarab havalaföldi király ellen harcol
           - legnagyobb veresége
         - dinasztikus politika
-          - Nápolyi Királység - fiának: Andrásnak akarja
-            - Johanna hercegnővel házasitja össze
+          - Nápolyi Királyság
+            - fiának, Andrásnak akarja, ezért Johanna hercegnővel házasitja össze
           - Visegrádi királytalálkozó
             - 1335
             - I. Károly; III. Nagy Kázmér (lengyel); Luxemburgi János (cseh)

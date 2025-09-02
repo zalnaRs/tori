@@ -1,4 +1,6 @@
-# Cél
+> 1. óra
+
+## Cél
 
 - Megtanuljuk az érretségit, Aradi vértanuig
 
