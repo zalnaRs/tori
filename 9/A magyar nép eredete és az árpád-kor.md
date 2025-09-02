@@ -1,0 +1,649 @@
+  - Gazdaság
+      - mezőgazdaság, ipar
+      - bányászat
+        - ásványkincseket keresünk -- arany, ezüst, réz, só
+      - földművelés
+        - talajváltó -- nincsenek sokán, elmennek máshová
+        - gabonafélék
+      - állattenyésztés
+        - rideg, külterjes
+        - magyar szarvasmarha, sertés (mangalica), baromfi
+        - vadászat és halászat
+      - városok
+        - kereskedelem, kézművesipar
+        - hospesek -- céheket alapítanak
+          - szászok -- Erdély: Szeben, Brassó
+          - Szepesség -- Késmárk, Lőcse
+          - kiváltságokat kapnak -- csökkentet adó..., mert tudást hoznak
+    - IV. Béla
+      - 1235-1270
+      - érdekes uralkodó, mert herceg kint fegyveres konfliktusba volt az apjával
+        - nem tetszett neki a birtok adományok
+        - visszaálitsa a királyi hatalmat
+          - III. Béla nagyapja (Nagy Béla király; II. András)
+          - birtokvisszavétel a politikája
+            - felülvizsgálja, hogy ki, pontosan miért kapott földet
+            - visszaveszi olyan emberektöl a földet, akik nem tetszettek
+            - bárokkal konfliktusba állt
+          - népszerűtlen
+        - Julianus barát
+          - domonkos
+          - visszamegy, hogy a lemaradt magyarokat idehozza
+          - cél: megakarta tériteni öket
+          - Magna Hungariába
+            - tudd magyarul beszélni velük
+            - azt mondják, hogy keletröl egy nomád nép közelededik felénk, Tatárok!!!!
+            - visszament és figyelmeztette a királyt
+        - Kelet felöl támadás várható
+          - Hírt kapott: 1240 Kijev városát bevették -- Kelet legnagyobb települése
+          - főurak nem kedvelik IV. Bélát, ezért nem fektetnek eleget a védelembe
+          - kunok (románia területén) szövetségesünk lesz, betelepíti
+            - török, pogány, lovasnomád nép
+            - vezető: Kötöny
+    - Tatárjárás
+      - 1241-1242
+      - Kína: befoglalva
+      - Japán: isteni vihar, nem sikerült a szigetre jutni
+      - Siralmas ének-ba, Rogerius leírta a történetet## Magyar őstörténet
+
+- nehézségek vannak a kutatásoknak
+  - nincs írott forrás
+    - rovásírást veszik fel a Kr. u. 700-as években
+    - IX. század Bizánci források
+      - Bölcs Leó: Taktika
+        - türköknek hisz
+        - föleg hadmüvészetröl szólna
+      - Bíborban született Konstantin
+        - Birodalom kormányzásáról müvébe ősmagyar állam berendezkedés beszél
+    - Arab utazók
+      - kereskedők, térképészek
+  - régészet, tárgyi emlékek
+  - biológia, genetikai vizsgálatok
+  - nyelvészet
+    - alapszókincs
+    - nyelvtan
+      - ragasztó
+    - szabályos hangmegegyezés
+    - finnugor nyelvcsalád része
+- XIII. század
+  - hun-magyar rokonság
+  - krónikák -- Kézai Simon, Anonymus
+  - büszke rokonság volt, mert az egész Europát legyözték
+  - semmilyen tudományos alapja nincs
+- XIX. század
+  - Sajnovics János, csillagász
+  - északon a lapp népeknek a nyelve hasonlit, ezért azt mondja a nyelvészekenk, hogy mi a finnugorhoz van közünk
+  - ugor-török háború
+    - ez csak a tudósok között
+    - magyar nyelv eredetét keresték
+    - ugorhoz kapcsolodik -- Budenz József
+    - törökhöz kapcsolodik -- Vámbéry Ármin, Kőrösi Csoma Sándor
+    - **megegyeztek a tudósok, hogy a magyar a finnugor nyelvcsaládhoz tartozik, DE török jövevényszavakkal**
+    - **Ez a történet nagyon elpolitizált**
+- ### Kezdetek
+  - Kr. e. 4 évezred uráli nyelvcslád kialakul
+    - Ob folyó mentén
+  - Kr. e. 3 évezred finnugor kor
+    - szamojádok
+    - finn-permi népek
+  - Kr. e. 2 évezred
+    - ugorok
+      - manapság oroszok
+        - mansi/vogul
+        - hanti/osztyák
+      - magyar
+        - lovas nomádokkal vannak kapcsolatba
+        - állattartás - ló
+        - fémeszközök
+  - 6 század
+    - feltételezhető egy éghajlat változás, melegebb lett
+    - Magna Hungária
+      - Baskíria
+  - Levédia
+    - 750-800 körül telepedünk le ide
+    - valószínűleg egy vezetőről kapta a nevet
+    - kazár birodalom alá tartozunk
+      - felveszik a Zsidó vallást
+      - felveszünk dolgokat innen, pl.: kettös fejedelemség
+        - gyula -- katonai vezető
+        - kende -- szakrális (vallási élet)
+  - Etelköz (folyóköz)
+    - 850 körül
+    - itt ismét független törzs kint folytatjuk utunkat
+      - kazár birodalom meggyengült
+    - 7 magyar törzs + 3 kabar törzs kirajzolódnak
+    - vérszerződés mondája
+    - onugorok
+    - 862 magyar portyázó hadjáratok
+      - ismerték a területet
+      - láttak, hogy egy hatalmi vákum van a kárpát medencébe
+      - az alföld legelő szempontjából, tök jó
+      - valószinüsithető, hogy ezt a hadjáratot már régota tervezték
+  - Kárpát-medence
+    - VII. század avar uralom
+    - László Gyula - kettős honfoglalás hipotézise
+    - IX. század frank birodalom
+    - államok peremterülete
+      - Morva fejedelemség
+      - Bolgár cárság
+      - frank fejedelemség
+- ### Honfoglalás
+  - bolgár-bizánci háború
+    - bizánci szövetséget magyaroknak
+      - bizánci császár békét köt
+    - besenyő támadás
+    - Kárpát-medencébe menekülnek
+    - Vereckei-hágó
+  - 895-896 Kárpát-medence keleti része
+    - Álmos - apja
+    - Árpád - fia
+  - II. szakasz
+    - 896 - medence nagyobb része
+    - 899 hadjárat
+    - 900-ra Pannónia teljes része
+    - 902 Enns folyó
+  - bajorok
+    - 904 Kuszán - megölik kíséretével együtt
+      - utolsó kende
+    - 907 pozsonyi csata
+- ### Kalandozások
+  - X. sz. eleje
+  - zsákmányszerző hadjáratok
+  - Nyugat
+  - Európa nem tud védekezni
+  - 933 Merseburg -- Madarász Henrik
+    - legyőzték a magyarokat
+  - 955 Augsburg -- Nagy Ottó
+  - 962 NRCS, Bizánc megerősödik
+  - Géza fejedelem
+    - 972-997
+    - belátta, hogy vagy pogányok maradunk vagy felvesszük a kereszténységet
+- ### Életmód
+  - #### vallás
+    - totemizmus
+      - turul (egy madár), szarvar, farkas
+    - sámánizmus
+      - szibériai népekre jellemző
+      - égig érő fa - ég, föld, pokol
+      - táltos, kapcsolatba van az alvilággal
+  - #### társadalom
+    - TK.: 125. old. (1.)
+    - 10.-ig századik átalakulóba
+    - szabadok
+    - rabszolgák
+    - bő - előkelők
+    - vitézek
+    - ínség -- akik szegények/lesüllyedőbe
+- ### Géza fejedelem
+  - 972-997
+  - átalakulás elkezdődött
+  - szeniorátus -- nemzetség legidősebb tagja örökli a hatalmat
+  - tevékenység
+    - fejedelmi hatalom megerősítése -- központosítja a hatalmat
+      - felesége: Sarolt -- erdélyi gyula lánya
+    - békét köt a NRCS-vel
+      - 973 Quedlinburg
+        - megegyezik a német-római császárral, hogy nem indit több csatát
+        - hittérítőket kér
+        - megkeresztelkedik
+          - Géza -- István
+          - Vajk (fia) -- István
+          - valószinüleg a politikáért tette
+        - Gizella és István
+        - Német lovagok érkeznek
+      - Primogenitúra
+        - 1. szülött joga
+  - 997-ben meghalt
+- ### I. Szent István
+  - 997-1038
+  - Árpád-kor kifejezést elkezdik használni
+  - Árpád dinasztia tagja
+  - keresztény nevelést kapott
+  - nem mindenki fogadja el -- primogenitúra -><- szeniorátus
+  - Hatalmi harcok kezdődnek
+    - Koppány
+      - levirátus -- Saroltot feleségül kéri
+      - Veszprém megyébe tevékenykedik Balaton körül
+      - legyőzik
+    - egyéb kihívások
+      - Ajtony 1003
+  - 1000/1001 koronázás
+    - Székesfehérváron
+  - államszervezés
+    - egyházszervezés
+      - egyházmegyék 10 db
+        - esztergomi
+      - bencés rend
+        - Pannonhalma, Tihany
+      - törvények
+        - kötelező templomba járás
+        - pogány vallás büntetése
+        - minden 10. faluban templom
+        - tized
+        - birtok adományok
+  - feudális államrend
+    - törvények
+      - magántulajdon védelme
+      - gyilkosságok büntetése
+        - Isten ítéletek
+    - Közigazgatás
+      - királyi vármegyerendszer
+      - 40-42 vármegye
+      - határvédelem -- őrség
+      - föld nagy része a királyé
+      - nemesi birtokok
+      - központ
+        - vár, erődítmények
+        - várispán
+        - várjobbágy
+        - várnép
+      - királyi tanács
+        - főurak, főpapok
+        - nádor
+        - tanácsot ad
+  - Külpolitika
+    - passzív, békés
+    - 1031 támadás
+      - NRCS
+      - sikeresen visszaveri
+  - trónutódlás
+    - Imre herceg -- intelmek című tanács gyüjtemény
+      - vadász balesetben meghal
+    - jelöltek
+      - Vazul
+        - pogány?
+        - megcsonkítja -- ólmot öntött a fülébe, megsüketiti
+        - fiai: Levente, András, Béla
+      - Orseolói Péter
+        - keresztény
+    - 1038 meghal István
+      - Székesfehérváron temetik
+      - 1083 Szent lesz
+        - nem csak a katolikusba, hanem még az orthodoxba is
+    - Trónviszályok
+      - Orseolói Péter
+        - 1038-1041
+        - Nem szeretik, Itália szármázasú
+        - Idegen lovakkal veszi magát körül
+        - elüldözik
+      - Aba Sámuel
+        - 1041-1044
+        - Menfői csata 1044
+      - Orseolói Péter
+        - 1044-1046
+        - Vata féle pogánylázadás
+        - Szent Gellértről leguritják
+        - Vazul fiai, András és Béla visszajöttek
+      - I. András
+        - 1046-1060
+        - keresztények
+        - Bélával osztozik -- dukátus
+          - cél az, hogy ne legyenek támadások
+        - külső támadások
+          - NRCS
+            - 1051-1052
+            - I. szárazföldi
+            - II. Dunán hozza az utánpotlást -- Zotmund
+            - Úgy tünik magyarország megtudja tartani a függetlenségét
+          - Tihanyi apatság alakítása
+          - fia születik -- Salamon
+            - kérdés: maradsz e tovább hadvezér?
+      - I. Béla
+        - 1060-1063
+        - rádölt a trón
+        - fiai: Géza, László
+      - Salamon
+        - 1063-1074
+        - 1074-be Mogyoródi csata, legyözik
+      - I. Géza
+        - 1074-1077
+        - bizánci korona
+      - Szent László
+        - 1077-1095
+        - megszilárditja
+        - egyház
+          - pogányokat büntetik
+          - cölibátus a papoknak, tessék betartani
+            - ha van első felesége megtarthatja
+          - szenté avatások
+            - Szent István, Szent Gellért, Szent Imre
+        - külpolitika
+          - külső tamadások keletröl
+            - besenyők, kunok
+          - hóditások
+            - horvát, szlavón
+        - Kóborlómozgalom
+          - nem akarnak alávetett
+          - lopnak
+          - veszélyes a feudális rendre
+          - lopás -- akasztás
+          - birók mindenkit elitéltek, mert azt csak kifizetik
+      - Könyves Kálmán
+        - 1095-1116
+        - papnak tanult -- írni-olvasni
+        - Álmos dukátus
+        - Külpolitika
+          - 1102 Horvát király lett
+            - Perszonálunió
+              - horvátoknak: szábor, nemeseik, horvát bán
+          - dalmát városokat meghoditja -- Trau, Raguza
+          - Észak-kelet Halics -- nincs sok siker
+        - Törvényei
+          - földbirtok öröklődése
+            - háramlási jog
+            - birtokadományokhoz utánpótlás
+          - enyhébb a pogányokkal
+            - lopás jog enyhébb
+          - egyház
+            - cölibátus
+            - pogányok -- idősebbek enyhébb büntetést kapnak
+          - jövedelem után vitézt kell kiállítani -- páncélos vitéz
+            - világi vezetők (földesúr) lesz hű, megerösödnek a királyhoz képest
+        - Befejeződik a keresztény feudális magyar állam kiépítése
+      - II. István
+        - 1116-1131
+        - Álmos fiát Béla
+      - II. Vak Béla
+        - 1131 Aradon leszámol azzokal akik megvakitották öt és az apját, 70 fö úrat öl meg
+        - 1131-1141
+      - 2 átmeneti uralkodó...
+      - II. Géza
+        - 1141-52
+        - Jelentős hospes mozgalom
+          - kelepesek
+          - Nyugat-europaból érkeznek
+          - itáliaiak, falamandok
+          - német -- szászok -- Erdély
+          - Miért jó? több ember; technologia, módeszerek behozása; kézmüves, céhes ipar
+      - III. István
+        - 1162-1172
+        - Trónviszályok
+          - II. László (1162-1163)
+          - IV. István (1163-1165)
+      - III. Béla
+        - 1172-1196
+        - Bizáncba nevelkedik
+          - Mánuel császár
+          - Végül trónörökös ként kezeli öt
+        - Belpolitika
+          - Kancellária -- Észtrevette azt, hogy amikor a császár amikor csinál valamilyen rendelkezést/... le kell írni, nem csak beszédbe
+            - irásbeliség
+              - kellenek irástudók
+            - kancellár
+            - jogbiztosítás -- oklevél
+          - el tud induli a történet irás
+            - Gesta Hungarorum
+              - Képes Krónika a magyar eredet történetről
+              - Anonymus -- P. mester
+              - hun-magyar rokonság
+            - Halloti beszéd és könyörgés
+        - Külpolitika
+          - magas, nemes, lovagkirály
+          - Bizánc ellen háboruzik, területet is sikerül szereznie
+          - dalmát városok
+          - III. Keresztes hadjárat -- nem vesz részt
+            - fiát majd elküldi
+    - Imre király
+      - 1196-1204
+      - testvére: András
+      - meghal rejtélyesen
+    - II. András
+      - 1205-1235
+      - vitatott uralkodó
+        - reformokat akar
+          - királyi birtokok
+            - ajándék, megyésispántól stb
+          - regálék
+            - királyi fenség jogon szerzett
+            - vámok, só/monopóliumok, hospesektől, város adó, bányászat
+            - pénzrontás -- kamarahaszna
+              - csökkenti a nemesfém %-ot
+            - adóbérlés
+              - zsidóknak, (iszlámoknak) adja
+      - külpolitika
+        - Halcsi hadjáratok
+        - 1217 Keresztes hadjárat
+        - kunok megtéritése -- Német lovagrend, teuton -- Barcaság költöztek be
+          - sikertelen volt és ki kellet menjenek
+        - Gertrudisz királyné, idegenböl jött
+          - Öhöz köttötek minden rosszat amit II. András csinált
+          - Összeesküvés -- Bánk bán/nádor
+      - Aranybulla mozgalom
+        - Az a baj, hogy Ö egy új gazdasági politikát akar bevezetni
+          - kellenek a hívek, sok adományt (föld) ad
+        - Társadalom
+          - főpapok
+            - nem keresztény emberek vesznek be adót a keresztényektöl
+            - sómonopólim
+          - főurak
+            - idegenek behozatala
+          - szerviensek (kis, közép szabad birtokosok; föként katonák)
+            - király szolgái
+            - veszélybe kerül a szabad jogállásuk
+          - várjobbágy
+            - szabadok
+            - nem akarnak földesúri függésbe kerülni
+        - Aranybulla 1222
+          - főpapok
+            - betiltja azt, hogy a zsidók adóbérlök legyenek
+            - zsidók nem kerülhetnek pozicióba
+          - főurak
+            - idegenek ne kaphassanak földet és ne kerüljenek tisztségbe
+            - ne foszhatják meg a jogosan szerzett területektöl
+          - szerviensek
+            - adómentesség
+            - nem köteles menni a külfödi háborukba
+            - öröklödés -- háramlási jog megerösitése
+            - bírói idézés kell hogy lefogják
+            - szabad jogállásukat megtarthatják
+            - nem szabad vármegyéket adni          
+          - várjobbágyok
+            - szabadok maradnak, király alatt
+          - ellenllási zárádék
+          - pénzrontás betiltása
+        - 1231-1232 megújitás
+          - esztergomi érsek kiátkozhatja a királyt
+          - tizedet pénzben is lehet fizetni
+    - Gazdaság
+      - mezőgazdaság, ipar
+      - bányászat
+        - ásványkincseket keresünk -- arany, ezüst, réz, só
+      - földművelés
+        - talajváltó -- nincsenek sokán, elmennek máshová
+        - gabonafélék
+      - állattenyésztés
+        - rideg, külterjes
+        - magyar szarvasmarha, sertés (mangalica), baromfi
+        - vadászat és halászat
+      - városok
+        - kereskedelem, kézművesipar
+        - hospesek -- céheket alapítanak
+          - szászok -- Erdély: Szeben, Brassó
+          - Szepesség -- Késmárk, Lőcse
+          - kiváltságokat kapnak -- csökkentet adó..., mert tudást hoznak
+    - IV. Béla
+      - 1235-1270
+      - érdekes uralkodó, mert herceg kint fegyveres konfliktusba volt az apjával
+        - nem tetszett neki a birtok adományok
+        - visszaálitsa a királyi hatalmat
+          - III. Béla nagyapja (Nagy Béla király; II. András)
+          - birtokvisszavétel a politikája
+            - felülvizsgálja, hogy ki, pontosan miért kapott földet
+            - visszaveszi olyan emberektöl a földet, akik nem tetszettek
+            - bárokkal konfliktusba állt
+          - népszerűtlen
+        - Julianus barát
+          - domonkos
+          - visszamegy, hogy a lemaradt magyarokat idehozza
+          - cél: megakarta tériteni öket
+          - Magna Hungariába
+            - tudd magyarul beszélni velük
+            - azt mondják, hogy keletröl egy nomád nép közelededik felénk, Tatárok!!!!
+            - visszament és figyelmeztette a királyt
+        - Kelet felöl támadás várható
+          - Hírt kapott: 1240 Kijev városát bevették -- Kelet legnagyobb települése
+          - főurak nem kedvelik IV. Bélát, ezért nem fektetnek eleget a védelembe
+          - kunok (románia területén) szövetségesünk lesz, betelepíti
+            - török, pogány, lovasnomád nép
+            - vezető: Kötöny
+    - Tatárjárás
+      - 1241-1242
+      - Kína: befoglalva
+      - Japán: isteni vihar, nem sikerült a szigetre jutni
+      - Siralmas ének-ba, Rogerius leírta a történetet
+      - fősereg: Batu kán -- Vereckei-hágó
+      - Észak-nyugati -- Lengyel királyság
+      - kezdetben akadálytalanul törnek előre
+        - kitörik a pánik
+        - pesten megölik Kötönyt (kunok vezérét, mert ök is hasonló népek)
+        - kunok kivonulnak, eröszakosan
+      - látja, hogy a várak nem állítják meg a Őket
+      - 1241. április 1. Muhi csata
+        - vereség
+        - sereg megsemmisül
+        - IV. Béla elmenekül
+          - délnek -> Trau
+      - 1242. váratlanul kivonulnak
+      - Következmény
+        - 20-50% emberveszteség
+        - folyókmentén nagyobb a pusztitás
+          - mivel itt élt a legtöbb magyar, a magyarok csökkenek
+    - II. honalapítás
+      - népesség pótlás
+        - kunokat visszahívja
+          - letelepiti öket az ország közepére -- kunság
+          - meg kell keresztelkedni
+        - hospesek
+        - erdélybe betelepülnek a vlach (románok)
+      - birtokadományozás
+        - oda add területetket, hogy várakat építsenek, kőböl
+      - familiaritás
+        - szerviensek
+    - nemesség kialakulása
+      - 1232 Kehidai oklevél
+        - biráskodni akarnak -> szolgabírókat választhatnak
+      - létrejön a nemesség társadalmi réteg
+      - 1267 Aranybulla megújítás
+        - egységes nemesi réteg
+          - politikai jogok
+          - adószedés
+          - adómentesség
+          - nemesi vármegyék -- gyűlése
+            - gyakorlatilag ök a végrehajtók
+    - jobbágyság
+      - 90% a népességnek
+      - szolgáltatásokkal tartozik az államnak
+        - tized
+        - robot
+        - ajándék
+        - termékjáradék
+        - kilenced - 1/10
+      - szabad költözéshez való jog
+  - Utolsó Árpád-házi királyok
+    - V. István
+      - 1270-1272
+      - trónviszály
+    - IV. Kun László
+      - 1272-1290
+      - 1277 Rákosi gyűlés -- I. rendigyülés
+      - 1278 II. Morvamezei csata
+        - Habsburg Rudolf ellen csatázik
+        - végül szövetségbe lép
+      - kunok meggyilkolják
+    - III. András
+      - 1290-1301
+      - utolsó Árpád-házi király
+      - kialakul az egységes jobbágyság
+      - úgy hal meg hogy nincs örököse, férfi ágon az Árpád-ház kihal
+
+Összefoglalás
+---
+
+- fogalmak
+  - hospes
+  - várjobbágy
+  - aranybulla 1222
+  - pénzrontás
+  - kamarahaszna
+  - nomád életmód
+  - szeniorátus
+  - primogenitúra
+  - rovásírás
+  - finnugor
+  - Magna Hungaria/Baskíria
+  - Levádia
+  - Etelközűkettős fejedelmség
+  - gyula, kende
+  - kabar
+  - avarok
+  - kettős honfoglalás hipotézis
+  - besenyő
+  - Kalandozások
+  - sámánizmus
+  - táltos
+  - Árpád-kor
+  - esztergomi érsek
+  - egyházmegye
+  - királyi vármegye
+  - felperzselt földtaktika
+  - perszonálunió
+  - háramlási jog
+  - szászok
+  - kunok
+  - jobbágy
+  - nemes
+  - báró
+  - regálé jövedelem
+  - ellenállási záradék
+  - szerviens
+  - nádor
+  - ispánia
+  - kancellária
+  - kettős kereszt
+- személyek
+  - Árpád
+  - Almos
+  - Lehel
+  - Géza fejedelem
+  - I. István
+  - Koppány
+  - Orseolói Páter
+  - Aba Sámuel
+  - Vazul
+  - Szent Gellért
+  - Imre herceg
+  - I. András
+  - I. Béla
+  - Szent I. László
+  - Könyves Kálmán
+  - III. Béla
+  - II. András
+  - Gertrudisz
+  - Bánk bán
+  - IV. Béla
+  - Julianus barát
+  - Batu kán
+  - III. András
+- Évszámok
+  - 895 Hongolalás
+  - 907 Pozsonyi csata
+  - 955 Augsburg
+  - 973 Quedlinburg
+  - 1051-1052 NRCS hadjáratai
+  - 1083 szenté avatások
+  - 1217 Keresztes hadjárat
+  - 1222 Aranybulla
+  - 1231 megújítása
+  - 1241-1242 tatárjárás
+  - 1241 Muhi csata
+  - 1232 kehidai oklevél 1232
+  - 1267 Aranybulla újítás (nemesek)
+  - 1277 Rákosi rendi gyűlés
+  - 1301 Árpád-ház kihal
+- esszé
+  - magyar nép eredete, vándorlása és a honfoglalás
+  - Géza fejedelem
+  - tatárjárás, ország újjáépítése
+  - aranybulla
+
+HF.: Ospesek az Árpád korba (1.5 sorköz, Times new roman 12pt, sorkizárt)

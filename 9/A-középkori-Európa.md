@@ -1,0 +1,604 @@
+# A középkori Európa
+
+## A parsztság világa
+
+- ### Gazdaság
+  - IV.-V. század
+    - népesség csökken
+    - kereskedelem csökken, mert az egységes birodalom széthullot
+    - önellátógazdálkodás, családunk+közzöségünknek legyen mit ennie
+  - VII.-VIII. század
+    - fellendülés
+    - új módszerek
+      - legelőváltó
+        - alacsony termelés, 20-30 évente ki lehet végezni egy területet
+      - kétnyomásos gazdálkodas
+        - ugar (állatok), szántó (növények)
+        - évente csere
+      - háromnyomásos gazdálkodas
+        - ugar (állatok), tavaszi- és őszi szántó (növények)
+        - kevesebbet pihen a föld
+        - megbizhatóbb
+    - új eszközök
+      - nomádok
+        - nyakhám (picit fullasztja a lóvat) -> szügyhám (hasára)
+        - patkó, kengyel
+      - nehézeke (talajlazitás), csoroszlyás
+      - borona
+    - hospes (telepes)
+  - jobbágyság kialakulása
+    - régebbi volt rabszolgák, lesüllyedő szabadok, egykori colonusokból
+    - X-XI. századra jogilag egységes
+      - használja a földet, nem birtokolja
+        - jobbágytelek (ház, kert, szántó)
+        - cserébe szolgáltatásokkál tartozik
+          - (pénz) uralkodó, (tized pénz) egyháznak, (termény, robot, ajándék, pénz) földesúrnak
+          - földesúr
+            - robot
+            - ajándék
+        - személyi függés
+          - bármilyen peres ügy lenne, akkor a földesúr biráskodik
+        - szabad költözés jog
+  - _`hf.: nagyjából mindenröl beszéltünk a jobbágyságról, házi feledat: TK.: 84. old. (5. ábra) elemezés, kérdések`_
+  - #### Járványok, éhínségek
+    - XIV. századra fejlődés megáll
+      - nincsenek jelenentös új eszközök és módszerek
+      - Kis jégkorszak
+        - termés kisebb lesz, nem annyira kiszámitható
+          - népesség csökkenés következik
+        - hidegtöl immunrendszerünk gyengül
+      - Pestisjárvány
+        - 1347
+        - hajóval, valoszinüleg Mongoliából eljutt Európába a Pestis
+        - 79 millió fő -> 55 millió
+        - Francia-Angol háború közbe
+        - karantén
+        - Pestisdoktor: gyogynövényekkel megelözték
+        - Következmény:
+          - eröszak nő
+            - antijudeizmus megjelenik
+              - pogromok: keresztények a zsidók ellen, megverték öket
+            - önsanyargatók
+            - parasztfelkelések
+              - francia - jacqueire felkelés
+              - angol - Watt Tyler
+              - magyar - Dózsa György
+                - megtorlás lesz a jobbágyokhoz
+                  - röghözkötés: elveszik a szabad költözést
+                  - nincs fegyverviselés
+                  - robot (szolgaltatás) nő
+  - #### Feudalizmus
+    - ebbe a korszakban a legnagyobb érték a föld (feudum)
+    - 4 térsadalmiréteg
+      - jobbágyság
+      - nemesek
+      - papság
+      - polgárok
+    - Rend: azonos joggokal rendelkező társadalmi réteg, ami a saját érdekeiért fel tud lépni
+  - #### Az egyházi rend
+    - ez még a pestis elött van (mert szar a NAT)
+    - kereszténység
+      - több központ
+        - Róma, Konstatntinápoly, _Jeruzsálem, Alexandria, Antiochia (kiesnek, mert az Arabbokkal háboruztak)_
+        - háború: ki tud gyözelmet aratni, kijé lesz a föhatalom
+      - Róma:
+        - Vezető: Pápa, nyugaton van
+        - Kispippin segitett
+        - 756 óta önálloan müködik
+        - világi hatalommal rendelkezik
+      - Konstatntinápoly
+        - keleti kereszténység
+        - bizánci császárság alá tartozik
+        - vezető (pátriárka)
+      - Nyugati
+        - Róma, 796
+          - sokkal önállob hatalommal rendelkezik
+          - van hadserege
+          - laza függésbe van a nyugati császárokkal
+      - Kelet
+        - Konstatntinápoly
+          - pátriárka a bizáncsi császár alárendeltje
+      - egyházszakadás
+        - szertartás nyelve más
+          - nyugat: latin
+          - kelet: görög és nemzeti nyelvek
+        - hitelvek
+          - halál után
+            - nyugat: mennyország, purgatorium (tisztitótűz), pokol
+              - purgatórium: egy bizonyos időre tüzbe megtisztulnak
+            - keleten: mennyország, pokol
+          - mind ketten szentháromság fogadok
+            - nyugat: a szentlélek, atya és a fiúból is jön
+            - kelet: csak az atyából jön a szentlélek
+          - szertartások:
+            - nyugat: kovásztalan kenyér
+            - keleti: kovászos kenyér
+        - kiátkozták az egyházakból egymást
+          - mindig kibékültek
+        - ##### 1054 nagy skizma (egyházszakadás)
+        - végleg ketté válik
+          - nyugat -- katolikus
+          - kelet -- orthodox (hithű)
+        - folyamatosan probálták tériteni a pogánynépeket
+          - keleten -- Ciril és Metód
+            - keleti szlávokat probálják megtériteni
+            - így az oroszok az Orthodox-ot veszik fel
+          - nyugaton -- Szent Patrik
+            - írország védőszentje
+        - a határ:
+          - horvátok, magyar, lengyeltöl nyugatra: katolikusok
+  - #### Szerzetesi mozgalmak
+    - őskereszténységhez akartak visszatérni
+    - keletröl Egyiptom területéröl indul
+    - olyan elveket fogadnak meg, mint a cölibátus, szegénység, engedelmesség
+    - VI. századra kolostorok
+    - Bencés rend
+      - Szent Benedek, 529 Monte Cassino
+      - első bencés kolostor:
+        - "Ora et labora" -- "Imádkozz és dolgozz"
+      - barátok = szerzetesek
+      - apát = vezető
+      - Rendkivül erős törvények, regula
+        - Apát irányába tisztelet
+        - világi élvezeteknek nem szabad élni
+        - nem lehet tulajdonuk
+        - TK. 92. old.
+        - munka = kodexmásolás, kertmüvelés
+        - dolgos napja van, mert amikor tétlen valaki, akkor jön a gonosz, hogy megtéritsen
+      - egész Európába elterjed, mindenhol nyitnak kolostorokat (pl.: tihanyi apatság)
+    - cisztercita rend
+      - ma is létezik (pl.: székesfehérvár)
+      - egy az egybe átveszik a becés regulát
+      - 1058 gyökerekhez akarnak visszatérni
+      - kezdetbe Férfiák csatlakoztak, de nök is csatlakoztak Apácának
+  - ### Egyházi reform
+    - #### Cluny reform mozgalom
+      - X. századra elkezd romlani az egyházzal
+        - közép-Eúrópába elkezd a Német-Római császárság (NRCS) erösödni
+          - egyre jobban probálja a befolyását növelni a pápára
+        - invesztitúra jog
+          - a császárnak és a pápáknak le kell küzdeni, hogy ki választja ki a püspököket
+          - Szimónia: korrupció
+            - lefizetnek embereket, hogy az egyházba kerüljenek
+          - Cölibátus betartása
+      - francia bencés kolostor
+        - 1073-1085 VII. Gergely betolják a pápai székbe
+      - Invesztitúra háborúk
+        - tét: sikerül e a katolikus egyháznak megörizni e a hatalmát, vagy a világihatalom alá kerül
+        - |. szakasz
+          - 1075-ben böjti zsinaton hozz egy döntést a Pápa: Dictatus Papae
+            - invesztitúra jog a Pápái
+            - a császár felett van
+            - csalhatatlanság elve
+          - IV. Henrik császár 1056-1106
+            - 1076 wormsi zsinat
+              - VII. Gergelyt megfosztják tisztségétől
+                - pápa kiátkozza a császárt
+            - 1077 Canossa járás
+          - 1122 wormsi konkordátum
+            - V. Henrik és ||. Kallixtus
+            - kompromisszumos béke
+            - lezárodik az |. szakasz
+        - ||. szakasz
+          - |||. Sándor pápa - |. Friigyes császár
+          - Lombard városokat probálja a császár a hatalma alá kényszeriteni
+          - a pápa hadsereggel segít
+          - 1176 Legnanói csata
+            - pápa győz
+      - Következmények
+        - Pápaság fénykora |||. Ince
+        - NRCS meggyengül
+          - császár birodalma diszintegrálodik
+          - Luxemburg dinasztia
+            - IV. Károly 1355-1378
+              - eredetileg cseh király, Prágábol irányit
+            - 1356 német aranybulla
+              - szentesíti a széttagoltsága
+              - inentöl a császárt választják
+        - Svájc függetlenedik
+  - ### koldulórendek
+    - XIII. században kezdödik az elterjedés
+    - #### Ferences rend
+      - Assisi Szent Ferenc alapitótta
+      - Ténylegesen koldulnak
+        - elossza a vagyonát, mert Jézusnak se volt pénze
+        - ezért kéregetnek, ha megszánja őket akkor kapnak enni és tudnak hol aludni
+          - igy terjesztik a hitet
+      - galambokal elkezd hit vitákat tárgyalni
+        - azt hitte a pápa, hogy bolond, ezért meg engedte neki, hogy vallást alapitsón
+      - ma is müködik
+        - pl.: Jelenlegi I. Ferenc pápa, aki az Ő nevét vette föl
+    - #### Domonkos
+      - Szent Domonkos alapitótta
+      - koldulú rend
+      - 1215 IV. lateráni zsinat
+        - megkapta, hogy az eretnekeknek üldözése -- inkvizíció
+          - csak random rámutattak emberekre
+      - Isten itéletek indulnak el
+        - megégették a kezét, és bekötözték, ha meggenyesedett, akkor bünös (eretnek)
+    - #### Eretnekek
+      - hisznek a vallásba, de egyház tagadók
+        - mert nincs szükség a pápára
+        - nincs benne a Bibliába
+      - bogumilok (balkánok), valdens (Francia)
+  - ### Tudomány
+    - nyelv: latin
+    - #### skolasztika
+      - Aquninói Szent Tamás, szerinte a vallás tökéletes, és a filiózofikusok akik mást gondolnak mind hibák
+        - vallásba illeszteni a tudományt
+        - a vallás feljebb van
+        - domonkos szerzetes volt
+      - ellenfelei
+        - kettős igazság
+          - Abélárd
+          - teljesen szét kell választani a tudományt (lehet a vallásba és a tudományba is igazság)
+    - #### Egyetemek
+      - egyszerre világi és egyházi
+      - kellenek a szakemberek
+      - XII. században -- Bologna, Párizs, Oxford
+      - XIII. század -- Cambridge
+      - XIV. század -- Prága, Bécs, Krakó, Pécs
+      - Pápa engedélye szükséges
+      - Önálló, autonómia (különalló a várostól)
+        - tanár: rektor
+        - tanulók: egyetemi polgárok
+        - latin nyelven
+      - 4 fakultás van
+        - bölcsész, 7 szabad művészet (6 év)
+          - trivium (humán tárgyak) -- grammatika (latin nyelvtan), retorika (beszédtan), dialektika (viták)
+          - quadrivium (reál tárgyak) -- aritmetika (számtan), geometria (mértan), asztronómia (csillagászat), muzsika (zeneelmélet, egyházi énekek elsősorban)
+        - valasztható: teológia (8 év), jog (6 év), orvos (6 év)
+  - ### Építészet
+    - XI-XII. század román stílus
+      - egyszerű
+    - XII. században gótika
+      - enyhén túl diszitett, vékony falak, kicsit barokos
+      - pillérek, támpillérek
+      - rózsa (színes) ablakok
+      - szobrok
+
+## Nemesi rend
+
+- feudalizmus -- hűbériség
+  - alapja a föld
+  - király -- legnagyobb földbirtokos
+    - földet ad embereinek
+    - kiváltságokat (privilégium) -- pl.: adómentesség
+    - cserébe -- szolgálat és hűség
+    - hűbéreskü
+  - földszerzés:
+    - benefícium -- halálig, utána visszaszál királyra
+    - feudum -- örökíthető
+  - senior -- vazallus
+  - Király hatalma korlátlan
+  - angol rendiség kialakulása
+    - angol: Brit szigeteken, római provincia volt
+    - Londonium város
+    - kelta lakossága volt
+    - népvándorláskor 2 nép vándorolt ide: angol és szászok
+    - vikingek is jöttek, akik fosztogattak
+    - Hódító Vilmos
+      - 1066-1087
+      - 1066 Hastingsi csata
+      - Franciai hübér volt, ez még baj lesz
+      - Normandia hercege
+      - bevezeti a hűbériséget
+      - csak a királynak van vazallusa
+      - Domsday book - adó összeírás
+    - ||. Pllantagenet Henrik
+      - 1154-1189
+      - Anjou dinasztia
+      - király bíróságok felállitása
+      - nem szereték
+    - |. Oroszlánszívű Richárd
+      - 1189-1199
+      - nincsen Angliában
+        - keresztes hadjáratt
+      - királyi hatalom gyengül
+    - Földnélküli János
+      - 1199-1216
+      - elveszti a francia birtokok nagyrészét
+      - adó emelés
+      - 1215 Magna Charta Libertatum (TK. 101. old.)
+        - megcsinálták, hogy több embernek legyen hatalma
+        - lordok - főnemesek
+        - uralkodó hatalmát korlátozzák
+          - királyi tanácsot - 25 lord
+            - adót csak az ő beleegyezésükkel lehet kérni
+          - bíroi itélet nélkül nem lehet lefogni szabad embert
+          - ellenállási záradék
+    - 1264 Simon de Montfort
+      - király nem tartja be, fellázadás vezet
+    - Parlament
+      - kiváltságokkal rendelkezők vehetnek részt
+      - főnemes, lovagok, polgárok
+    - |. Nyakigláb Edvárd
+      - 1272-1307
+      - angolul: Longshanks
+      - pénzre van szüksége
+        - Wales, Skócia -- William Wallace
+        - összehívja a Parlamentet
+      - 1295 Minta Parlament
+        - Nordok ház (felső ház), ide a főnemesek, főpapokat meghivják név szerint
+        - Követek háza (alsó ház), grófságok követei
+        - 2 kamarás országgyülés
+        - rendi dualizmus
+          - hatalom megosztása
+            - rendek és király között
+          - rendek
+            - részt vesznek a rendi országgyülésen
+            - törvényjavaslatokat tehetnek
+            - adót ajánlanak
+              - korlátozó hatalom, mert ha rossz a király kevesebbet kap
+            - beszedik az adót
+          - király
+            - ő hívja össze a gyűlést
+            - végrehajt
+            - külügy, hadügy, pénzügy kezelése
+          - mindenki (kivéve a jobbágy) beleszolhat a hatalomba
+  - ### Francia rendiség kialakulása
+    - Karoling dinasztia X. századba kihalnak
+    - Capet Hugó veszi át a trónt
+      - 987-996
+      - Capeting-dinasztia
+    - IX. Lajos (vagy Szent Lajos)
+      - 1226-1270
+      - centralizálja a királyi hatalmat
+      - egységes pénz
+      - keresztes lovag
+    - IV. Szép Fülöp
+      - 1285-1314
+      - Champagne grófság egy gazdag terület, megszerzi
+      - Flandria
+        - háborúzik, nem jön össze sokáig háboruznak
+        - pénz kell
+          - keresztes hadjárati lovag rendböl vesz kölcsönt tülök
+          - összehív egy rendi gyűlést, azzal a célal, hogy pénzt szerezzen
+            - rended 3 db külön-külön ülésezik
+            - 1-1 szavazat
+      - Pápasággla konfliktus
+        - 1309 Avigoni pápa (1377-ig)
+        - Avignoni fogság
+    - 100 éves háború
+      - 1337-1453
+      - nem folyamatos, vannak szakaszai
+      - pestis is ekkor van
+      - kis jég korszak
+      - Angol-Francia háború
+        - Flandria városok birtoklása
+        - casus belli (okozat)
+          - trónöröklés
+          - Capeting dinasztia kihal
+          - Valois Fülöp - |||. Edwárd
+          - az a baj, hogy női oldalon van az öröklödés... nem akarják elfogadni
+          - Francia erösödik
+        - menete:
+          - 1340 Sluys tengeri csata
+            - angolok nyernek
+          - 1346 Crécy csata
+            - angolok nyernek
+            - a franciák rontanak
+            - angolok
+              - viszont egy hosszú íjat csináltak, amivel messzire tudtak löni
+              - elöl lándzsa
+              - a természeti adottságok miatt körbe tudják venni
+            - íjászok -><- lovasság
+          - 1356 (új) Poitiers csata
+            - itt a francia uralkodó is fogságba kerül
+          - #### első szakaszt az angolok nyerik
+          - 1415 angol, burgund szövetség
+            - Azincourt csata
+            - Reims
+            - Orleans városba feltünik egy fiatal parasztlány aki isteni inditásra jelentkezik a királynál, hogy segít
+              - Jean d'Arc
+          - 1453 kiűzik az angolokat
+            - Calais megmarad
+          - VII. Károly lett a francia király
+    - Anglia
+      - Rózsák háborúja
+        - 1455-1485
+        - York és Lancaster
+        - Tudor-ház (3. fél) lesz a gyöztes
+          - VII. Henrik
+    - Rekonkviszta háborúk
+      - XI.-XV. század
+      - Az arabok teljesen megholditották a Hispánokat (mai spanyolország területe)
+        - móroknak hivták
+      - a keresztények el kezdtek visszavágni
+        - sikerül...
+      - 3 fontos királyság alakul:
+        - Portugália
+        - Kasztília
+        - Aragónia
+          - 1479-be házasság miatt egyesül a Kasztíliai királynő, és Aragónia ferdinánd
+      - 1492-be befejeződik, utólsó Iszlámokat is elfoglalták
+
+## Középkor embere
+
+- ### Lovagi élet
+  - VIII. században
+  - nemes ifjak
+    - apród
+    - lovaggá ütik, de csak azokat akik erényesek (pl.: becsületes, bátor, erő, ügyeség)
+      - gyengéket, nőket védelmezik
+  - lovagi költészet megjelenik
+  - a lovagok egyre többször fosztogatnak, és harcolnak. nem védenek
+- ### Keresztes hadjáratok
+  - XI. - XIII. századig
+  - 7 jelentös nagy hadjárat történik
+  - cél: a Szentföld, Jeruzsálem
+    - mert ekkor Arab hoditás miatt, Iszlám kéz alatt van
+    - a Keresztények vissza akarják foglalni
+  - tényleges okok:
+    - népesség felesleg van nyugat-Európában
+    - lovagi réteg
+      - elsőszülött örököl
+      - többi egyházi pályára, lovagnak megy
+        - céltalannak érzik magukat a lovagok, ezért rabolnak, fosztogatnak
+        - "Treuga Dei" (magyarul: "Isten békéje") -- a pápa jelenti ki, hogy a keresztényeket ne öljük
+    - pápaság megerősödött az Invesztitúra háború miatt
+    - kereskedelemi érdek
+      - Velence, Genoa
+    - zarándokmozgalom -- elkezdenek menni szent helyekre, rengetegen akarnak menni Jeruzsálembe
+      - ereklyekultusz, szentkultusz -- tárgyak, stb... szentektől származó
+        - azért lesz valaki szent, mert valami csódát tett
+    - zsákmányszerzés
+  - 1. hadjárat
+    - 1095-1099
+    - II. Orbán pápa -- clermonti zsinat
+      - bűnbocsánatot ajánl a lovagoknak
+    - szárazföldön mennek a Szentföldre
+    - 2 csoport
+      - lovagok
+      - nincstelenek (védők)
+        - fosztogatás, rabolnak
+        - Walter Habenichts/Sans-Avoir
+        - Könyves Kálmán szétveri
+    - 1098-1099 Jeruzsálem visszafoglalása
+    - Jeruzsálemi királyság (Keresztény)
+    - #### az első hadjárat sikeres
+    - #### 1187 Szaladin visszafoglalja
+  - 2. hadjárat -- nem számit
+  - 3. hadjárat
+    - 1189-1191
+    - hatalmas koáliciot épit ki a Pápa, hogy újra elfoglalja
+    - legtöbben meghaltak/visszafordultak
+    - Csak Oroszlánszívű Richárd érkezik meg
+    - Szaladin ellen
+    - #### sikertelen
+  - 4. hadjárat
+    - 1202-1204
+    - Velence, Genoa
+      - eltérítik
+    - Bizánc ellen harcoltak, akik Keresztények voltak, csak egy apró része volt Orthodox
+    - Csak kereskedelmi érdek miatt harcoltak
+    - 1204 Latin császárság
+      - 1261-ig
+    - #### Bizánci birodalom meggyengül! Kezd vesziteni területeket
+  - egyéb hadjáratok
+    - 1212 Gyermekek hadjárata
+    - 1217 II. András magyar király
+  - 1291 Akkon vára elesik
+  - Lovagrendek (hf/03_04.md)
+    - lovagok alapitják
+    - általában hieráizált szervezet
+    - teuton
+      - azt igérik, hogy a kapnak területet akkor a szomszédos pogányokat megváltják
+      - első a magyar király, aki Erdélybe ment
+      - végül a Balti-tengerren telepednek le, és a Lengyelektöl kérnek területet
+        - a poroszt (szláv nép) kapják meg, elnémetesednek
+    - templomosok
+      - zárándokokat védelmezik
+      - rengeteg kedvezményt, kiváltságokat kapnak
+      - jó gyorsan csinálnak egy jó stratégiát
+        - bankhálózat
+          - ha valaki akar menni Jeruzsálem, ne vigyenek sok pénz mert veszélyes, ezért kezdeti bankokat csináltak, ahol beadták a pénzt otthon és egy papirt adtak
+          - királyoknak még kölcsönt is adnak
+          - kitiltják az uralkodók, ha nincs pénzük kifizetni a kölcsönt
+    - Máltai, Johannita (betegek ápolása)
+- ### Polgárok világa
+  - gazdaság
+    - beindul a kereskedés, mivel többet tudtak termelni
+    - technikai fejlődés
+      - vízimalom, fonó, szövő
+        - textil olcsóbb lett
+        - szükség van még mindig az Európai termésre, még mindig megmarad a kereskedelmi utak
+  - városok
+    - korszakunk elején, a legtöbb város elpusztult
+    - távolsági kereskedők
+      - telepet hoznak létre, hogy a portékáikat megvédjék
+      - közösségeké alakulnak
+        - kézműveseknek lehet menni a városba
+        - saját joggokat kiharcolták
+    - Hol?
+      - folyópart, öböl
+      - hágó, szoros (mert általában itt mennek a kereskedelmi utak)
+      - kereskedelmi utak
+      - ókori központok
+      - bányavárosok
+    - uralkodó
+      - több város -> több adó
+        - kiszámithatóbb, mert általában pénzbe fizetnek és könnyebb beszedni
+      - privilégium (kiváltságokat)
+        - városfal
+        - vásártartás
+        - adózás egyösszegben
+        - szabad bíró/polgármester választás
+        - árumegállítójog
+        - pallosjog
+      - saját önkormányzat rendelkezik
+        - biró, polgármester
+        - polgárok választják
+        - 90% plebs, csak 10% polgár
+      - típusok
+        - 1. mezőváros
+          - földesúr alatt
+          - vásárjog
+        - 2. szabad király város
+          - király alatt
+        - 3. városköztáraságok
+          - önálló, független
+          - pl.: Velence, Genoa, Milán, Firenze
+  - Céhek
+    - város része
+    - érdekvédelmi szervezet
+    - adott foglalkozásba tartozók
+    - szabályzat
+      - munkaidő
+      - minőség
+      - munkaeszközök száma
+      - a szabadversenyt zárja ki, hogy mindenki egy mintára kell dolgozzon
+        - jó minöség, de kevés és drága
+        - biztosabb megélhetés
+    - jelentkezés:
+      - először inas
+      - legény
+        - Ő csinál egy remekműt és aztán a céhmester
+      - mesteré rakja
+    - sok lesz a mester, de a céhmester inkább a fiának adja
+      - rendkivül nehéz, örökké legény marad
+      - elkezdenek sokan inni (alkoholt)
+    - kontár
+      - elkezd a minöség romlani
+        - elkezdik szábályozni a minőséget törvénybe
+  - kereskedelem
+    - távolsági
+    - Észak
+      - Hanza szövetség, amibe kereskedő városok voltak
+        - Lübeck, Hamburg, Bréma
+        - Balti-tengerren megy
+        - behoznak -- prém, bőr, hal, borostyán
+        - ki -- posztó, szerszám, fegyver, ipari cikkeket...
+    - Dél
+      - levantei kereskedelem
+        - ászia -- Kína, India, arab
+        - be -- selyem, porcelán, tömjén, fűszer
+        - ki -- nemesfémek
+    - XV. század nemesféméhség
+    - szaradföldi
+      - Bécs
+    - Monopólium
+      - kizárólagos jog
+      - nemesfém, pénzverés
+      - só
+    - XV. században fellendülés
+      - centrum elmélet (fejlödés központja)
+      - félperiféria (majdnem lemaradtak)
+      - periféria (lemaradtak)
+      - Centrum: Észak-Itália
+        - megjelenik a bankrendszer
+        - nyomtatás
+          - Gutenberg
+    - Reneszánsz
+      - XIV. század -- Itália
+      - földi boldogság
+      - művészet, tudományok
+      - ókori témákra, antik témák/elemek jelennek meg
+      - humanizmus -- emberközpontusság
+      - Leonardo da Vinci
+        - festmények
+          - Mona Lisa
+          - utolsó vacsora 
+        - Anatómia bemutatása
+        - korabeli tank, helikopter, ejtőernyő
+      - 0

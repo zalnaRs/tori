@@ -1,0 +1,528 @@
+# Vegyes házi királyok kora
+
+## 1301-1526
+
+- Anjou: I. Károly, Nagy Lajos
+- Luxemburgi: Luxemburgi Zsigmond
+- Habsburg: Albert
+- Jagelló: Ulászlók, II. Lajos
+- Hunyadi: Mátyás
+
+---
+
+- székelyek
+  - székek (területén éldegélnek)
+  - 17. század végén katonai feladatokat végeztek, határvédelem
+    - gyalog székely
+    - lófők
+    - előkelők
+  - különállóan tekintenek magukra
+- Trónviszályok kora
+  - Árpád-ház kihal 1301-be
+  - interregnum kora
+  - 3 király jelölt
+    - Anjou Károly, 4. Béla ükunokája
+    - Přemysl Vencel
+    - Wittelsbach Ottó
+  - Kis királyok kora
+    - Tartományurak
+    - Kán László, Borsa Kopasz, Csák Máté, Aba Amádé, Kőszegiek
+    - király felségjogok -- pénzverés, vám, hadsereg, külpolitika
+  - Menete
+    - Vencel 1301-1305
+      - apja halála után visszatér
+    - Ottó
+      - 1305-1308
+      - kezébe kerül a szentkorona
+      - Úgy nézz ki, hogy Ö lesz a győztes
+      - elmegy Székesfehérvárra, de nem az Esztergomi érsek koronázza meg
+      - Erdély -- Kán László kidnappeli és a Szent Koronát elvette
+      - Elmenekült az országba
+    - I. Károly
+      - 1309 -- Esztergomi, Szent Korona, Székesfehérváron
+      - 1301/1308/1309/1310/1322
+      - Károly Róbert -- Itália származású, eredeti neve: Caroberto
+      - III. András idején már az országba tartózkodott, ismerte a magyar körülményeket
+      - Pápaság támogatja
+        - 1308 Pesten királyválasztás
+      - le kell számolni a Tartományurakkal
+        - Hogyan?
+          - széthúznak
+          - külön-külön
+          - Csák Máté -- nem harcol ellene
+            - 1321 meghal
+          - polgárok érdeke
+        - 1312 Rozgonyi csata
+          - Aba család
+        - 1317 Debreceni csata
+          - Borsa Kopasz
+        - 1322 szilárd hatalom
+      - Gazdaságpolitika
+        - regálé jövedelemre támaszkodik
+        - bányászat fellendítése
+          - ösztönözni kell
+          - mesterek: cseh, német, morva
+        - urbura reform 1325-1327
+          - földesúr telkén is lehet bánya
+          - bányabér/bányapénz
+          - kitermelt nemesfém
+            - 10%-kel beszolgáltatni
+              - 1/3-ot a földesúr
+          - éves szinten 1500-2000 kg aranyat tudnak
+          - Körmöcbánya, Selmecbánya, Besztercebánya
+          - pénzt a király verhet
+            - monopólium
+            - kamarák
+          - Nekcsei Dömötör/Demeter
+          - tárnokmester
+        - pénzek egységesítése
+          - aranyforint -- firenzei mintára készült
+          - értékálló -- nincs pénzrontás
+          - 16-17 században is elfogadják
+          - bevétel kiesés
+        - Kapuadó 1342
+          - első állami adó
+          - jobbágy portánként
+            - faluban a házhely -- 18 dénár
+          - mentes: királyi hatalom alatt, egyház
+        - Kereskedelem
+          - vámokat vezet be -- nyugaton harmincad, keleten huszad
+        - péterfillérek egyrésze országban tartja
+        - püspöki kinevezés késleltetése
+        - Eredmény
+          - gazdaság fejlődik
+          - városokfejlődnek -- bevétel
+      - Királyi hatalom politikai alapja
+        - 1/3-át tartja meg a földeknek
+        - új bárói réteg
+          - Garai, Báthory, Lackfi
+          - tőle függ
+        - honorbirtokokat add
+          - méltóság után
+        - haderő
+          - banderiális hadsereg
+            - egy nemes ha tud 50 páncélóst... összeszedni, akkor saját zászlója alatt menetelhetett
+          - kunok, iászok
+          - királyi várkatonaság
+      - Külpolitika
+        - rendkivül aktív
+        - 1330 Pasodai szurdok
+          - Bessarab havalaföldi király ellen harcol
+          - legnagyobb veresége
+        - dinasztikus politika
+          - Nápolyi Királység - fiának: Andrásnak akarja
+            - Johanna hercegnővel házasitja össze
+          - Visegrádi királytalálkozó
+            - 1335
+            - I. Károly; III. Nagy Kázmér (lengyel); Luxemburgi János (cseh)
+              - összegyülnek, hogy jobb kapcsolat legyen
+              - elöször lengyel és cseh országot kell kibékiteni, sikeres
+                - Szilézia
+              - Gazdasági egyezmény, kereskedelmi
+                - Bécs árumegállítójog (mindenkit megállitotak, és ott is kellett áruljon)
+                  - meg kell kerülni
+                - Új útvonalat jelölnek ki -- Krakkó fele
+          - 1339 magyar-lengyel szerzödés
+            - ha valamelyik fiútód nélkül hal meg
+      - Gazdag országot hagy hátra
+      - 1342 meghal
+- I. Nagy Lajos
+  - 1342-1382
+  - külpolitika
+    - aktív
+    - 3 irány
+      - 1, Nápoly
+        - Pápa András ellen van
+        - Erzsébet anyakirályné
+        - 1345 Andrásts meggyilkolják
+          - bosszú hadjárat
+        - I. hadjárat 1347-1348
+          - szárazföldön
+          - Johanna elmenekül
+          - Nápolyt beveszi
+          - pestis járvány - Lajos is elkapta
+          - Toldi Miklós
+          - Johanna vissaérkezik miután elmegy
+        - II. hadjárat 1350
+          - tengeren
+          - eredménytelen
+        - Dalmát városok
+          - Velence ellen
+        - Balkán
+          - bogumil eretnekek
+          - sikeres
+          - szerb, bosnvák hűbéres államok
+        - Lengyel-litván
+          - 1370 III. Nagy Kázmér meghal
+          - Nagy Lajos lengyel király 1370-1382
+          - Perszonálunió
+            - inkább laza
+            - Lengyel nemesek feltételekhez kötik -- Kassai privilégiumok
+          - litván hádjáratok - sikeresek
+            - költséges
+    - Belpolitika
+      - 1351 Aranybulla megújítás
+        - kilenced törvény
+          - pestis járvány - 10%
+          - munkaerőhiány, mert a jobbágyak kapták el inkább
+          - földesúrnak kell
+          - elcsábitja más földesúrnak a jobbágyait
+            - kevesebb szolgáltatás
+            - nagybirtokosok kezdik
+          - mindenk földesúrnak kötelező beszedni az adót
+          - egységes adó a földesúr felé, mindegyik beszedi, mert másképpen a király kapja meg
+        - ösiség törvény
+          - végrendelkezés
+          - legközelebbi rokon kapja meg a földet, ha nincs a király
+          - birtok elidegeníthetetlen
+        - jogilag egységes a nemesség
+    - 1382 meghal
+      - nem volt fia, 2 lány
+        - Mária -- magyar
+        - Hedvig -- lengyel
+- Mária királynő
+  - 1382-1395
+  - első magyar királynő
+  - Férje: Luxemburgi Zsigmond házasság
+  - Trónviszályok
+    - bárók beleszeretnének szólni
+      - liga
+      - Délvidéki - II. (Kis) Károlyt
+      - támogatják -- 1385-1386 (megölik
+    - birtokadományok -- 20% lesz az övé, városok
+  - Hatalom megszilárdítása
+    - erővel, szövetségesekkel
+      - Mária egy lovas balesetbe meghalt
+      - Cillei Borbála felesége lesz
+        - Cillei-Garai liga támogatja
+    - Sárkányos lovagrend 1408
+      - Szent György (sárkányokat öld, Angliának a védőszentje)
+    - háramlási jog
+      - csak második unoka testvérig lehet örökiteni, ha nem akkor a királyé
+      - új bárói réteget hozz létre
+    - köznemesség
+      - rendé szerveződés támogatása
+    - rendiség kibontakozik
+      - vármegye szerepe nő - követek
+    - ellensúly a bárok ellen
+  - Városok
+    - támogatja
+    - kiváltságokat ad soknak
+      - pl.: ár megállító jog Budának; sok város pedig vásár tartás
+    - egyeégesíti a mértékegységeket
+    - részsikerek
+    - megjegyzés: 17 szepességi város
+    - mezővárosok
+      - földesúr alatt
+      - kiváltságok egyrésze
+- Oszmán törökök
+  - Kis-Ázsia, Anatólia
+    - volt bizánc területe
+  - XIV. század -- Oszmán vezír (vezér)
+  - iszlám -> dzsihád
+  - Bizánci Birodalom hanyatlik
+  - 1354 Gallipoli -> Rumélia
+  - hadsereg
+    - állandó, hivatásos hadsereg
+    - vezető: beglerbég
+    - janicsárok
+      - fegyverzetük jó
+        - íj, puska
+      - zsóldot kapnak
+      - jól kiképzett
+      - keresztény gyerekek
+        - iszlám családhoz adják, hogy áttérjen
+        - ha még mindig rátermett, akkor laktanyára rakják, ahol nagyon nehéz katonai kiképzést kap
+    - szpáhi
+      - nehézlovagság
+      - timárbirtok
+        - nem örökletes
+        - bármikor elvehető
+    - korszak legfeljetebb hadserege
+  - berendezkedés
+    - katonaállam
+    - élén: szultán
+      - despotikus uralkodó (teljes hatalma van)
+      - vallási és világi vezető
+    - nincs feudalizmus
+      - khász - szultáné
+      - tímár - bármikor elvehető
+      - egyházi birtok
+    - díván
+      - államtanács, szultán legbelsőbb köre
+      - főmufti - főpap
+      - defterdár
+      - beglerbégek
+    - biráskodás
+      - Korán alapján
+      - kádik
+    - földrajzi, közigazgatási
+      - Rumélia
+      - Anatólia
+        - vilajet (tartomány) - beglerbég/pasa
+          - szandzsák
+  - rája - keresztények
+    - nem probálják erőszakkal tériteni a parasztságot
+    - amig nem térnek meg: külön adó
+    - államnak - dzsizje
+    - devsirme - fyerekadó
+  - I. Murád 1359-1389
+  - II. Hódító Mehmed
+    - 1453 Isztambul
+- Zsigmond külpolitikája
+  - törökellenes harcok
+    - 1390 portyázó hadjáratok megjelennek
+    - 1396 ellentámadás
+      - Nikápolyi csata
+        - Zsigmond -><- I. Bajezid szultán ellen
+        - magyar vereség
+        - török keleten van lefoglalva
+          - Ankarai csata 1402
+            - Timurlenk legyőzi a szultánt
+            - szultán fogságban
+        - védekezni kell
+          - hadsereg növelése
+            - 20 jobbágyonként kell 1 könnyűlovast kiállítani
+            - meghaladja az ország erejét
+          - végvárrendszer
+            - déli határon
+            - várak építése -- Jajca, Nándorfehérvár, Temesvár
+          - ütközőzónát létrehozása
+            - Bosznia, Szerbia, Havasalföld
+    - 1420 cseh Király, 1433 császár
+  - Utódlás
+    - nincs fia
+    - egy lánya - Erzsébet - Habsburg Albert
+- Habsburg Albert
+  - 1437-1439
+  - első Habsburg
+  - Garai-Cillei liga támogatja
+  - törökök ellen hadjárat
+    - vérhas járvány
+      - Albert is elkapja, elmenekül, de belehal
+  - utószülött (apja halála után szülöttet) László a következő
+    - Erzsébet nem érzi magát biztonságba, elmenekül Bécsbe
+      - Habsburg frigyesbe
+      - Szent Koronát is viszik, ellopják
+- egy újszülött gyerek amúgy se tudná megvédeni az országot...
+- I. Jagelló Ulászló
+  - 1440-1444
+  - egy bároi liga, Hunyadi-Újlaki liga támogattja
+  - lengyel király is
+  - ...
+- Hunyadi János
+  - 1409-1456
+  - származása nem tisztázott
+  - vlach származás lehet
+  - Zsigmond adományoz neki Erdélybe, Vajdahunyadvára
+  - apród ként kezdi -- Ozorai Pipo, Zsigmond is
+    - elkésérik a haborúkba, Itália, huszita háborúkba
+      - megismeri a harcmodort
+  - Ulászlót támogatta
+  - Szörényi bán, temesi ispán, Nándorfehérvári várkapitány, Erdélyi vajda
+  - legnagyobb földbirtokos
+    - bevétel
+    - hadsereg
+  - 1442 Marosszentimrei csata
+    - Török portyázok bemennek, Hunyadi csatát vallál, de veszít
+    - De kivonuláskor sok hadi foglyot kapott
+  - népszerű, törökverő ember lett
+  - 1443 Hosszú hadjárat
+    - 35 ezer katona
+    - sikeres, mert a török levan kötve keleten
+  - 1444-ben a szultán békét kér
+    - Drinápolyi béke
+    - Szendrő, Galambóc magyar
+    - Szerbia
+    - hadisarc
+  - Pápa - háború folytatását akarja, hogy az iszlámokat kiüzze
+    - keresztes csapatokat igér etc...
+      - semmi nem történik meg, kisebb haderővel indul Hunyadi
+    - Várnai csata
+      - 1444 november 10
+      - keresztény vereség
+      - Ulászló meghal
+  - nincs király, nincs korona
+    - László - kiskorú, Bácsben van
+  - Kormányzóság
+    - Garai-Cillei liga -- Hunyadi liga között
+    - V. László király lehet
+    - de amíg nem nagykorú
+    - Hunyadi János kormányzó
+      - gubernátor
+    - 1446-1452
+    - bevétel az övé
+    - 1448 újabb hadjárat
+      - Török ellen
+      - albán felkelők
+        - Skandenberg bég végig vezeti öket
+        - Brankovics szerb despota elárulja
+          - háton szurják, Jánosnak annyi
+      - nem sikerült megállitani a töröket.
+    - nincs realítása a támadó hadjáratnak
+- V. László
+  - 1453-1457, egyenlőre visszavitték a koronát
+  - még gyerek (15 éves), de átveszi a hatalmat
+  - magyar, cseh, osztrák egyesülnek a V. László személyével
+  - Cillei-Garai liga -><- Hunyadi-Szilágyi liga
+  - 1453 Konstantinápoly -> Isztambul
+  - 1456-ba indít hadjáratot Magyarország ellen
+    - Nándorfehérvár ostroma
+      - Szilágyi Mihály
+      - Hunyadi, Kapisztrán János egy keresztes hadat toboroz
+        - délbeli harang a Nándorfehérvári ostrom miatt van
+      - magyar győzelem, törökök elfutottak
+        - úgy nézz ki, hogy egyenlőre a magyar királyság, tud a nyugati-kereszténység védőbástyája ként müködni
+        - táborban a Pestijárvány tört ki
+- Hunyadi Mátyás trónra jutása
+  - V. László Cillei-Garai liga
+  - ellenük Hunyadi-Szilágyi liga
+    - Hunyadi László
+  - Cillei Ulrik
+    - el akar venni címeket
+  - 1457 Buda
+    - Hunyadiakat invitálja tárgyalni
+    - Lászlót kivégezteti
+    - Mátyás fogságba kerül
+    - V. Láaszló elmenekül Prágába
+      - Mátyással
+    - V. László váratlanul meghal
+    - 1457-1458 Garai-Szilágyi alkut köt
+      - Mátyás lesz a király
+      - Garai Anna lesz a felesége
+- Mátyás király
+  - 1458-1490
+  - Vitéz János a tanítója -- humanista
+  - tudott írni, olvasni
+  - több nyelven beszélt
+  - apja mellett vett részt tárgyalásokon
+  - ambíciózus, céltudatos
+    - nem írányitható
+  - Mátyás Prágába van, Podjebrád György fogságba
+    - cseh király
+    - váltságdíj
+    - lányat Katalint (9 éves, csak eljegyzi) elveszi feleségül veszi
+    - Mátyás megéri, hogy, ha eléri a 14 éves kort, ha eléri házasodik
+    - elengedi
+  - Hazatér
+    - hatalmat megszilárdítja
+    - Szilágyit eltávolítja
+      - bebörtönzi
+    - Garait is
+    - megszilárdítja a Királyi hatalmat
+  - III. Frigyesnél van a korona
+    - az őt támogató bárokat leveri
+  - hűség
+    - adomány
+    - fegyver
+  - Kezdetben a rendekkel együtt kormányoz
+  - Belpolitika
+    - 1463 Bécsújhelyi szerződés
+      - Mátyás megkapja a Szent Koronát, Sopront
+      - Sopront is
+      - Ha utód nélkül hal meg, akkor vissza kapja Frigyes vagy utódaié az ország
+      - 80 ezer aranyforint
+    - fiatal emberöl van szó, megkoronázzák
+    - királyi hatalmat megerősiti, mert a királyi tanácsot korlátozta
+    - szakképzett embereket gyüjtök maga köré
+      - Johannes Ernus -- kincstartó
+      - alancsony szintböl is huzott embereket, nem a rang hanem a szakképzés számitott
+    - új bároi réteg: Kinizsi, Báthory, Szapolyai
+  - Gazdaság
+    - aktív külpolitika alapja
+    - füstpénz
+      - 1467 eddig kapuadók voltak helyette, füstadó
+      - azért, hogy az adóalap nőjön
+      - nem jobbágyportánként, hanem házanként, ezért hivjuk friss adónak
+    - huszadvám
+      - Koronavám váltja le
+    - rendkivüli hadiadó
+      - subsidium
+      - általánogsába csak rendkivüli eseménykor szedték be
+      - volt olyan év, hogy 2x szedte be
+    - éves bevétele:
+      - 500-600 ezer aranyforint
+    - mire
+      - zsoldoshadsereg
+      - Fekete sereg
+      - 10-20 ezerfő
+      - állandó
+      - hatalmas kiadás
+      - királyhoz hűek
+      - gyalogság, ágyót is
+      - pár vezér: Kinizsi Pál, Magyar Balázs, Haugwitz
+  - Külpolitika
+    - török ellen
+      - status quo - jelenlegi helyzet
+      - vágvárrendszer erősiti
+      - 1463 Jajca várát elfoglalja
+      - 1476 Szabács elfoglalása
+      - 1479 Kenyérmezei csata
+        - Kinizsi vezetésével
+        - győztes
+      - 1483 béke törökkel - 5 évre
+        - 1521-ig megújítják
+    - Nyugat
+      - célja: császár legyen
+        - török ellen
+        - nem lesz -- nem akarnak egy erős kezű uralkodót
+        - lenézik dinasztiát
+      - cseh háború 1468-1469
+        - Podjebrád György
+          - 1464-ben szülés közbe Katalin meghal
+          - huszita
+          - váltakozó sikerek
+        - megválasztják Mátyást
+        - III. Frigyes Nagy Kázmért ismeri el
+      - Ausztria ellen
+        - 1485 Bécs
+        - 1486 Habsburg Miksa
+      - mérlege
+        - császári cím elérhetetlen
+        - költséges, nem tartós hódítások
+      - 1471 összehivás
+        - Vitéz János, Janus Pannonius
+  - trónutódlás
+    - Beatrix - 1476
+      - új felesége
+      - meddő
+    - törvénytelen fia
+    - Corvin János
+      - 1486 nádori törvények
+      - legnagyobb földbirtokos
+    - 1490 Bécs meghal
+    - Corvin nem lesz király
+      - még egy Mátyást nem akarnak
+    - Jagelló Ulászló
+      - legyel király
+- ## Középkori művelődés
+  - Írásbeliség, oktatás
+    - latin
+    - szerzetesrendek
+      - Bencés
+      - ciszterciek
+      - ferencesek, domonkosok
+      - magyar rend: Pálos rend XIV. századba
+        - Boldog Özséb alapította
+  - reneszánsz
+    - építészet
+      - Budaivár, Visegrád
+    - Könyvtár -- Corvinák
+    - nem terjedt el széles körben
+  - oktatás
+    - kolostori
+    - inkább külföldi egyetemek
+      - mert nincs állandó
+        - 1367 Pécs
+        - 1395 Óbuda
+        - 1467 Pozsony
+  - történetírás
+    - geszta műfaj
+      - egy népnek az eredetével foglalkozó mű
+      - ősgeszta -- ismeretlen szerző
+      - Gesta Hungarorum 1200 körül Anonymous
+      - Gesta Hungarorum Kézai Simon 1280 körül
+      - Képes Krónika XYV. század
+      - Küküllei János Nagy Lajos élete
+      - Chronica Hungarorum
+        - Thuróczy János -- XV. század
