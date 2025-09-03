@@ -135,7 +135,7 @@
       - 1, Nápoly
         - Pápa András ellen van
         - Erzsébet anyakirályné
-        - 1345 Andrásts meggyilkolják
+        - 1345 Andrást meggyilkolják
           - bosszú hadjárat
         - I. hadjárat 1347-1348
           - szárazföldön
@@ -187,10 +187,14 @@
   - Férje: Luxemburgi Zsigmond házasság
   - Trónviszályok
     - bárók beleszeretnének szólni
-      - liga
-      - Délvidéki - II. (Kis) Károlyt
-      - támogatják -- 1385-1386 (megölik
+      - liga alakul
+        - Délvidéki - II. (Kis) Károlyt támogatják -- 1385-1386 (megölik)
     - birtokadományok -- 20% lesz az övé, városok
+  - Luxemburgi Zsigmond
+    - 1387-1437
+    - apja IV. Károly NRCS császára
+    - kompomisszum
+      - birtokadományok - 20% lesz az övé, városok
   - Hatalom megszilárdítása
     - erővel, szövetségesekkel
       - Mária egy lovas balesetbe meghalt
@@ -201,9 +205,10 @@
     - háramlási jog
       - csak második unoka testvérig lehet örökiteni, ha nem akkor a királyé
       - új bárói réteget hozz létre
+      - Ozorai Pipó, Rozgonyiak
     - köznemesség
       - rendé szerveződés támogatása
-    - rendiség kibontakozik
+    - **rendiség kibontakozik**
       - vármegye szerepe nő - követek
     - ellensúly a bárok ellen
   - Városok
@@ -222,7 +227,7 @@
   - XIV. század -- Oszmán vezír (vezér)
   - iszlám -> dzsihád
   - Bizánci Birodalom hanyatlik
-  - 1354 Gallipoli -> Rumélia
+  - 1354 Gallipoli -> Rumélia (Római birodalom nevéböl, vissza akarják állitani)
   - hadsereg
     - állandó, hivatásos hadsereg
     - vezető: beglerbég
@@ -266,7 +271,7 @@
     - nem probálják erőszakkal tériteni a parasztságot
     - amig nem térnek meg: külön adó
     - államnak - dzsizje
-    - devsirme - fyerekadó
+    - devsirme - gyerekadó
   - I. Murád 1359-1389
   - II. Hódító Mehmed
     - 1453 Isztambul
