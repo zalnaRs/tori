@@ -322,17 +322,17 @@
   - vlach származás lehet
   - Zsigmond adományoz neki Erdélybe, Vajdahunyadvára
   - apród ként kezdi -- Ozorai Pipo, Zsigmond is
-    - elkésérik a haborúkba, Itália, huszita háborúkba
+    - elkésérik a haborúkba, Itália, huszita (eretnek vallás irányzat) háborúkba
       - megismeri a harcmodort
   - Ulászlót támogatta
-  - Szörényi bán, temesi ispán, Nándorfehérvári várkapitány, Erdélyi vajda
-  - legnagyobb földbirtokos
-    - bevétel
-    - hadsereg
+    - Szörényi bán, temesi ispán, Nándorfehérvári várkapitány, Erdélyi vajda
+    - legnagyobb földbirtokos
+      - bevétel
+      - hadsereg
   - 1442 Marosszentimrei csata
     - Török portyázok bemennek, Hunyadi csatát vallál, de veszít
     - De kivonuláskor sok hadi foglyot kapott
-  - népszerű, törökverő ember lett
+  - népszerű lett, "törökverő ember"-nek hivták
   - 1443 Hosszú hadjárat
     - 35 ezer katona
     - sikeres, mert a török levan kötve keleten
@@ -360,7 +360,7 @@
     - bevétel az övé
     - 1448 újabb hadjárat
       - Török ellen
-      - albán felkelők
+      - albán felkelők segitségére indul
         - Skandenberg bég végig vezeti öket
         - Brankovics szerb despota elárulja
           - háton szurják, Jánosnak annyi
@@ -386,6 +386,7 @@
     - Hunyadi László
   - Cillei Ulrik
     - el akar venni címeket
+    - meggyilkolják
   - 1457 Buda
     - Hunyadiakat invitálja tárgyalni
     - Lászlót kivégezteti
@@ -393,9 +394,10 @@
     - V. Láaszló elmenekül Prágába
       - Mátyással
     - V. László váratlanul meghal
-    - 1457-1458 Garai-Szilágyi alkut köt
-      - Mátyás lesz a király
-      - Garai Anna lesz a felesége
+- 1457-1458 Garai-Szilágyi alkut köt
+  - Mátyás lesz a király
+  - Garai Anna lesz a felesége
+  - 5 évig Szilágyi Mihály a kormányzó, bábnak akarják
 - Mátyás király
   - 1458-1490
   - Vitéz János a tanítója -- humanista
@@ -407,7 +409,7 @@
   - Mátyás Prágába van, Podjebrád György fogságba
     - cseh király
     - váltságdíj
-    - lányat Katalint (9 éves, csak eljegyzi) elveszi feleségül veszi
+    - lányat Podjebrád Katalint (9 éves, csak eljegyzi) elveszi feleségül veszi
     - Mátyás megéri, hogy, ha eléri a 14 éves kort, ha eléri házasodik
     - elengedi
   - Hazatér
@@ -433,15 +435,14 @@
     - szakképzett embereket gyüjtök maga köré
       - Johannes Ernus -- kincstartó
       - alancsony szintböl is huzott embereket, nem a rang hanem a szakképzés számitott
-    - új bároi réteg: Kinizsi, Báthory, Szapolyai
+    - új bároi rétegek: Kinizsi, Báthory, Szapolyai
   - Gazdaság
     - aktív külpolitika alapja
     - füstpénz
       - 1467 eddig kapuadók voltak helyette, füstadó
       - azért, hogy az adóalap nőjön
       - nem jobbágyportánként, hanem házanként, ezért hivjuk friss adónak
-    - huszadvám
-      - Koronavám váltja le
+    - huszadvámot, a Koronavám váltja le
     - rendkivüli hadiadó
       - subsidium
       - általánogsába csak rendkivüli eseménykor szedték be
@@ -451,7 +452,7 @@
     - mire
       - zsoldoshadsereg
       - Fekete sereg
-      - 10-20 ezerfő
+      - 15-20 ezerfő
       - állandó
       - hatalmas kiadás
       - királyhoz hűek
@@ -472,6 +473,7 @@
       - célja: császár legyen
         - török ellen
         - nem lesz -- nem akarnak egy erős kezű uralkodót
+          - ezért hív be sok történet írót az udvarába, hogy a Hunyadi mátyás családjáról irjanak, hogy Római császárokból vannak
         - lenézik dinasztiát
       - cseh háború 1468-1469
         - Podjebrád György
