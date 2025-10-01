@@ -1,0 +1,48 @@
+site_name: Puskás 10.c dokumentáció
+site_url: https://pdocs.014321.xyz
+theme:
+  name: material
+  language: hu
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.tabs
+    - search.suggest
+    - content.tabs.link
+  #    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+plugins:
+  - privacy
+  - search
+  - social
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  - pymdownx.arithmatex:
+      generic: true
+
+  - footnotes
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  - lib/katex.js
+  - lib/katex.min.js
+  - lib/auto-render.min.js
+
+extra_css:
+  - lib/katex.min.css
