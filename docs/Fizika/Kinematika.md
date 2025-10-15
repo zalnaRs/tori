@@ -23,7 +23,6 @@ A nyugalom mindig viszonylagos. A nyugalomban lévő test mozgás állapota mege
 
 ---
 
-
 A testeket leegyszerűsítve kiterjedés nélküli pontszerű testeknek képzeljük el.
 
 ![A mozgás pályája](assets/kinematika-palya.png)

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cheatsheet</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        background: #fefefe;
+        color: #000;
+        font-family:
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          Roboto,
+          Oxygen,
+          Ubuntu,
+          "Adwaita Sans",
+          Cantarell,
+          "Open Sans",
+          "Helvetica Neue",
+          sans-serif;
+      }
+
+      main {
+        position: relative;
+      }
+
+      section {
+        border: 1px solid black;
+        border-radius: 12px;
+        margin: 12px;
+        padding: 12px;
+
+        & h1 {
+          margin-bottom: 12px;
+        }
+
+        & ul {
+          position: relative;
+        }
+      }
+
+      ul section:nth-child(2) {
+        top: -200%;
+      }
+
+      section:nth-child(1) {
+        left: 0;
+        width: 100%;
+      }
+
+      .command {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+
+        & code {
+          background: rgba(0, 0, 0, 0.1);
+        }
+
+        & span {
+          flex: 1;
+        }
+
+        & ul {
+          display: flex;
+          flex-direction: column;
+          margin-left: 12px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main></main>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
