@@ -4,10 +4,10 @@ theme:
   name: material
   language: hu
   features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.instant.prefetch
-    - navigation.instant.preview
+    #    - navigation.instant
+    #    - navigation.instant.progress
+    #    - navigation.instant.prefetch
+    #    - navigation.instant.preview
     - navigation.tabs
     - search.suggest
     - content.tabs.link
